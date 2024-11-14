@@ -1,8 +1,4 @@
-# CMP301-Starter
-Starter application for CMP301 coursework
-Updated for 2020
+Graphics Programming with Shaders Coursework - Torin Pellegrini
 
-Name:
-
-Number:
+Run in source editor to view scene
 
